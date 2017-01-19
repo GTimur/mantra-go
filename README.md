@@ -1,0 +1,2 @@
+# mantra-go
+Golang mantras
